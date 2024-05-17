@@ -23,6 +23,12 @@ colorTo: blue
 
 ![alt text](assets/2000.png)
 
+## PyPI Requirements.txt
+    tensorflow==2.12.0
+    opencv-python==4.7.0.72
+    numpy==1.23.5
+    gradio==3.39.0
+
 .
 
 .
